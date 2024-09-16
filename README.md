@@ -70,6 +70,8 @@ Open the project in an IDE or generate the build with gradle.
 **Without IDE**:
 1. Run `gradlew build`
     - Output will be located at: `recaf-ui/build/recaf-ui-{VERSION}-all.jar`
+> [!CAUTION]  
+> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
 # Statement
 
 > [!CAUTION]  
